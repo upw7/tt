@@ -1,3 +1,3 @@
 :loop
-start cmd.exe
+start
 goto loop
